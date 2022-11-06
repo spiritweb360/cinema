@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkciniphile"]=self["webpackChunkciniphile"]||[]).push([[18],{9018:function(n,e,u){function i(n,e,u,i,r,c){return null}u.r(e),u.d(e,{default:function(){return l}});var r={},c=u(3744);const t=(0,c.Z)(r,[["render",i]]);var l=t}}]);
+//# sourceMappingURL=18-legacy.112bfc14.js.map
